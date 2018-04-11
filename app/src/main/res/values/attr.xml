@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="themePrimary" format="reference" />
+    <attr name="themePrimaryDark" format="reference" />
+    <attr name="themeAccent" format="reference" />
+    <attr name="themeContentBackground" format="reference" />
+    <attr name="themeContentTextColor" format="reference" />
+    <attr name="themeTextColorSuccess" format="reference" />
+    <attr name="themeTextColorFailure" format="reference" />
+</resources>
