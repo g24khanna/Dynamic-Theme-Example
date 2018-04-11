@@ -5,6 +5,7 @@
     <attr name="themeAccent" format="reference" />
     <attr name="themeContentBackground" format="reference" />
     <attr name="themeContentTextColor" format="reference" />
+    <attr name="themeContentTextColoOnPrimary" format="reference" />
     <attr name="themeTextColorSuccess" format="reference" />
     <attr name="themeTextColorFailure" format="reference" />
 </resources>

@@ -8,12 +8,24 @@
         <item name="colorAccent">?themeAccent</item>
     </style>
 
-    <style name="AppTheme.Indigo">
+    <style name="AppTheme.NoActionBar.Indigo">
         <item name="themePrimary">@color/indigo</item>
         <item name="themePrimaryDark">@color/indigoDark</item>
         <item name="themeAccent">@color/indigoAccent</item>
         <item name="themeContentBackground">@color/white</item>
         <item name="themeContentTextColor">@color/black</item>
+        <item name="themeContentTextColoOnPrimary">@color/white</item>
+        <item name="themeTextColorSuccess">@color/green</item>
+        <item name="themeTextColorFailure">@color/red</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar.Pink">
+        <item name="themePrimary">@color/pink</item>
+        <item name="themePrimaryDark">@color/pinkDark</item>
+        <item name="themeAccent">@color/pinkAccent</item>
+        <item name="themeContentBackground">@color/white</item>
+        <item name="themeContentTextColor">@color/black</item>
+        <item name="themeContentTextColoOnPrimary">@color/white</item>
         <item name="themeTextColorSuccess">@color/green</item>
         <item name="themeTextColorFailure">@color/red</item>
     </style>
